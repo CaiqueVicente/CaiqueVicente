@@ -1,11 +1,11 @@
 
 - 🌱 estudando lógica de programação,html,css,js...
 - 😄 Pronouns: ele/dele ...
-- ⚡ Fun fact: amo jogar volei...
+- ⚡ Fun fact: amo praticar esportes...
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0350F&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E0350F&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!;Meu+nome+%C3%A9+Caique+Silva+e+tenho+18+anos;Atualmente+estou+estudando+para+Full+Stack+%3A%7D;Moro+em+Jabaquara-SP,+Be+Wellcome+%3A%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E0350F&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!;Meu+nome+%C3%A9+Caique+Silva+e+tenho+20+anos;Atualmente+estou+estudando+para+Full+Stack+%3A%7D;Moro+em+Jabaquara-SP,+Be+Wellcome+%3A%7D)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/CaiqueVicente">
